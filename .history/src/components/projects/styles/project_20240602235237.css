@@ -18,7 +18,7 @@
 }
 
 .project:hover .project-link {
-	color: var(--secondary-color);
+	color: #0f1c2e;
 	transition: color 0.3s ease-in-out;
 }
 

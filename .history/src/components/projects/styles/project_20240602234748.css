@@ -11,14 +11,8 @@
 	text-decoration: none;
 }
 
-.project:hover {
-	background: #0f1c2e;
-	opacity: 1;
-	transition: background-color 0.3s ease-in-out;
-}
-
 .project:hover .project-link {
-	color: var(--secondary-color);
+	color: var(--link-color);
 	transition: color 0.3s ease-in-out;
 }
 

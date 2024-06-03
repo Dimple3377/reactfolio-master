@@ -23,7 +23,7 @@
 }
 
 .article-right-side:hover {
-	background: #0f1c2e;
+	background: #fafafa;
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
 }
@@ -35,7 +35,7 @@
 }
 
 .article-title {
-	color: var(--primary-color);
+	color: #000000;
 	font-size: 16px;
 	font-weight: 600;
 }
@@ -51,7 +51,7 @@
 .article-link {
 	padding-top: 10px;
 	font-size: 14px;
-	color: var(--secondary-color);
+	color: var(--link-color);
 	font-weight: 700;
 }
 
