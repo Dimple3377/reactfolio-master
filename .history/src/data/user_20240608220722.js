@@ -28,7 +28,7 @@ const INFO = {
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators",
+		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
 		description:
 			"A chronological compilation of my detailed reflections on programming, leadership, product design, and beyond.",
 	},

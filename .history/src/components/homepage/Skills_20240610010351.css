@@ -1,0 +1,29 @@
+/* Skills.css */
+.skill-mf {
+	margin: 20px;
+	margin-bottom: 50px;
+	color: var(--primary-color);
+}
+
+.title-s {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.progress {
+	height: 20px;
+	background-color: #f3f3f3;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+.progress-bar {
+	height: 100%;
+	background-color: #4a9d9c;
+	border-radius: 10px;
+}
+
+.pull-right {
+	float: right;
+}

@@ -42,7 +42,7 @@
 
 .read-article-date-container {
 	border-left: 2px solid var(--quaternary-color);
-	color: var(--primary-color);
+	color: var(--tertiary-color);
 	font-size: 16 px;
 	align-items: center;
 	height: 22px;
@@ -64,5 +64,5 @@
 	font-size: 16px;
 	line-height: 30px;
 	font-family: system-ui;
-	color: white;
+	color: #52525b;
 }

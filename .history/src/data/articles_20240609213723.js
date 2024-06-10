@@ -16,7 +16,6 @@ function article_1() {
 
 				.randImage {
 					align-self: center;
-					    margin-top: 2rem;
 					outline: 2px solid white;
 				}
 				`,
@@ -103,20 +102,6 @@ function article_2() {
 			"Discover essential best practices for creating efficient, secure, and user-friendly modern websites and applications.",
 		style: ``,
 		keywords: ["Websites and Applications", "Jay", "Jay T", "Jay Thomas"],
-		// eslint-disable-next-line no-dupe-keys
-		style: `
-				.article-content {
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-				}
-
-				.randImage {
-					align-self: center;
-					    margin-top: 2rem;
-					outline: 2px solid white;
-				}
-				`,
 		body: (
 			<React.Fragment>
 				<div className="article-content">

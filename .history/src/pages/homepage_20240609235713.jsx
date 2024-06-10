@@ -171,11 +171,6 @@ const Homepage = () => {
 							<AllProjects />
 						</div>
 
-						{/* Ajout de la section des compétences */}
-						<div className="homepage-skills">
-							<Skills />
-						</div>
-
 						<div className="homepage-after-title">
 							<div className="homepage-articles">
 								{myArticles.map((article, index) => (
